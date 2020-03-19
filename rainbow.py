@@ -714,4 +714,4 @@ async def info(ctx):
 
     await ctx.send(embed=embed)
                    
-client.run ("Njg5NDY1MjEwNTgyNTk3NzAx.XnMxgw.szJh3vby9mJYi0Q41syFq6Iiuo8")
+bot.run ("Njg5NDY1MjEwNTgyNTk3NzAx.XnMxgw.szJh3vby9mJYi0Q41syFq6Iiuo8")
