@@ -47,4 +47,4 @@ async def help(ctx):
     embed = discord.Embed(title="Rainbow bot", description="Készítette: FightMan01", color=0x00ff00, timestamp=datetime.datetime.utcnow())
     await ctx.send(embed=embed)
 
-client.run("TOKEN")
+client.run("Njg5NDY1MjEwNTgyNTk3NzAx.XnMwpg.xlNfnpupo5Uu4oYCSp2Dbi0MWMQ")
